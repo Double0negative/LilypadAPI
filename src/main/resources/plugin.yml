@@ -1,0 +1,6 @@
+name: LilyPad.API
+version: 1
+main: org.mcsg.api.API
+authors: [Double0negative]
+description: "LilyPad API"
+depend: [LilyPad-Connect]
